@@ -1,5 +1,5 @@
 <h1 align="center">
-  :rocket: Welcome to my space :rocket:
+  Welcome to my profile!
 </h1>
 
 ## Interests 
