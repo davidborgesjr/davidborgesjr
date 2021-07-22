@@ -4,7 +4,7 @@
 
 ## About me
 :computer: I'm a full-stack web developer working at Instituto Eldorado de Pesquisas, currently located in Manaus, AM (Brazil). \
-🎓 &nbsp;I'm graduated at Instituto Federal de Educação, Ciencia e Tecnologia do Amazonas (2016-2020).
+🎓&nbsp;I'm graduated at Instituto Federal de Educação, Ciencia e Tecnologia do Amazonas (2016-2020).
 
 
 ## Tech Stack 
