@@ -3,7 +3,7 @@
 </h1>
 
 ## About me
-I'm a full-stack web developer working at Instituto Eldorado de Pesquisas, currently located in Manaus, AM (Brazil). 
+I'm a full-stack web developer working at Instituto Eldorado de Pesquisas, currently located in Manaus, AM (Brazil). \
 🎓 &nbsp;I'm graduated at Instituto Federal de Educação, Ciencia e Tecnologia do Amazonas (2016-2020).
 
 
