@@ -5,7 +5,7 @@
 ## Interests 
 
 - Angular     
-- [JavaScript]
+- ![JavaScript]
 - SpringBoot  
 - GCP
 - Azure
