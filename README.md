@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 ## Contact
-- :email:	davidjunior.email@gmail.com
+:email:	davidjunior.email@gmail.com
