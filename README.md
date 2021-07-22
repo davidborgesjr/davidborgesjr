@@ -2,6 +2,9 @@
   Welcome to my profile!
 </h1>
 
+## About me
+I'm a full-stack developer working at Instituto Eldorado de Pesquisas, currently located in Manaus, AM (Brazil)
+
 ## Interests 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
