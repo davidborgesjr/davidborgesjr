@@ -1,8 +1,20 @@
-### Hi there 👋
+<h1 align="center">
+  :rocket: Welcome to my space :rocket:
+</h1>
+
+## Interests 
+
+- Angular     
+- JavaScript
+- SpringBoot  
+- GCP
+- Azure
+- Azure DevOPS
+
+---
+
 
 <!--
-**davidborgesjr/davidborgesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
