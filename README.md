@@ -4,7 +4,7 @@
 
 ## About me
 :computer: I'm a full-stack web developer working, currently located in Manaus, AM (Brazil). \
-:mortar_board: I'm graduated at Instituto Federal de Educação, Ciencia e Tecnologia do Amazonas (2016-2021).
+:mortar_board: I'm graduated at Instituto Federal de Educação, Ciencia e Tecnologia do Amazonas (2016-2021). \
 :mortar_board: I'm studying at IGTI, making a Front-end development MBA (2016-2020).
 
 
